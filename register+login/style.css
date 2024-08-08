@@ -1,0 +1,26 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+input {
+  width: 40vw;
+  margin: 0.25em
+}
+h1{
+  font-size: 24pt;
+  font-family: helvetica,arial,sans-serif;
+}
+#submit {
+  background-color: green;
+  width: 40vw;
+  color: whitesmoke;
+  margin: 0.5em;
+}
+
+div {
+  width: 50vw;
+  padding: 5vw;
+  position: relative;
+  left: 25vw;
+}
